@@ -1,0 +1,3 @@
+Podaci za logovanje kao administrator:
+Korisničko ime:admin
+Lozinka:123456789
